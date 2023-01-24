@@ -9,6 +9,8 @@
 
 body {
   min-height: 200vh;
+  max-width: 100%;
+  overflow-x:hidden;
   background: linear-gradient(#492f10, #9a753e)
 }
 
@@ -153,7 +155,7 @@ header ul li a:hover {
   background: #68451c5e;
   font-size: 1.7em;
   padding: 15px 830px;
-  border: 2px solid #dcc3a641;
+  border: 2px solid #dcc3a622;
   border-radius: 6px;
   font-weight: normal;
   position: relative;
