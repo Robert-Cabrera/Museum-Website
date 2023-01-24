@@ -14,6 +14,10 @@ html,body {
   background: linear-gradient(#492f10, #9a753e)
 }
 
+body{
+  position: relative;
+}
+
 header {
   background: #68451c;
   position: sticky;
