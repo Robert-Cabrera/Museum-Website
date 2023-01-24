@@ -12,3 +12,9 @@ Font Awesome <br />
 Google fonts <br />
 Unsplash 
  
+<img width="1440" alt="cover_1" src="https://user-images.githubusercontent.com/96351718/214202958-a6265762-2178-427e-a71f-e5f0ded2c271.png">
+
+<img width="1440" alt="cover_2" src="https://user-images.githubusercontent.com/96351718/214203026-5b2ec3a5-2442-4de3-83e1-02acfbc8a208.png">
+
+<img width="1440" alt="cover_3" src="https://user-images.githubusercontent.com/96351718/214203032-cd26f14d-db8b-40de-9bfc-5e72db4944ed.png">
+
