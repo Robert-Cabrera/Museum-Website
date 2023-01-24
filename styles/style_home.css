@@ -104,20 +104,16 @@ header ul li a:hover {
 
 #welcome img#clouds {
   position: absolute;
-  padding-top: 25%;
-  padding-right: 10%;
-  width: 190%;
-  height: auto;
+  width: 100%;
+  height: 100%;
   opacity:0.5;
   object-fit: cover;
 }
 
 #welcome img#hands {
-  opacity: 0.5;
-  padding-top: 30%;
-  padding-left:9.2em;
-  width:160%;
-  height: auto;
+  opacity: 0.4;
+  width:100%;
+  height: 100%;
   position: absolute;
   object-fit: cover;
 

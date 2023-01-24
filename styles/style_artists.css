@@ -127,8 +127,8 @@
 }
 
 .content img{
-    width: 200px;
-    height: 200px;
+    width: 50%;
+    height: 10%;
     text-align: center;
     margin: 0 auto;
     display: block;
