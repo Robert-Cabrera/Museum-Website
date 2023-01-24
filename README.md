@@ -1,4 +1,4 @@
-# [Museum Website](https://robert-cabrera.github.io/Museum-Website/index.html)
+# [Museum Website](https://robert-cabrera.github.io/Museum-Website/)
 
 <h4>
  
